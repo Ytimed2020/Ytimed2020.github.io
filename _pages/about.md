@@ -82,6 +82,7 @@ My research interests include: AAI, speech LLM, etc.
 [//]: # (- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 # 💬 Activity
+- *Open Source Contribution:* Open-Sora-Plan(11K star), PaddleDetection(13k star) etc.
 - *2024*, ISCSLP2024@Special Session Committee
 - *2024*, CAAI ICASSP Pre-talk Forum(Chair: Haizhou Li)
 - *2022-2023*, Baidu PaddlePaddle Students Developer Committee Area Chair.
