@@ -24,9 +24,9 @@ redirect_from:
 
 Have a happy day!
 
-My name is Yudong Yang, I am an undergraduate graduate and currently working as a research assistant at Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS), where my mentors are Lan Wang, Nan Yan and Rongfeng Su!
+My name is Yudong Yang, I am an undergraduate students  and currently working as a research assistant at Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS), where my mentors are Lan Wang, Nan Yan and Rongfeng Su!
 
-Before joining SIAT, I have interned/worked in companies such as Sensetime, Xbotpark Robotics etc. And was a visiting student at SIAT!
+Before joining SIAT, I have interned in companies such as Sensetime, Xbotpark Robotics etc. And was a visiting student at SIAT etc. !
 
 My research interests include: AAI, speech LLM, etc.
 
