@@ -85,7 +85,7 @@ My research interests include: AAI, speech LLM, etc.
 - *Open Source Contribution:* Open-Sora-Plan(11K star), PaddleDetection(13k star) etc.
 - *2024*, ISCSLP2024@Special Session Committee
 - *2024*, CAAI ICASSP Pre-talk Forum(Chair: Haizhou Li)
-- *2022-2023*, Baidu PaddlePaddle Students Developer Committee Area Chair.
+- *2022-2023*, Baidu PaddlePaddle Developer Committee Area Chair.
 - *2022-2023*, NUC-AI LAB leader.
 
 [//]: # (# 💻 Internships)
