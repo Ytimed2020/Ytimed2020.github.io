@@ -83,6 +83,7 @@ My research interests include: AAI, speech LLM, etc.
 
 # 💬 Activity
 - *Open Source Contribution:* Open-Sora-Plan(11K star), PaddleDetection(13k star) etc.
+- *2024*, IEEE Journal of Biomedical and Healthy Information (JBHI) etc. @ Reviewer
 - *2024*, ISCSLP2024@Special Session Committee
 - *2024*, CAAI ICASSP Pre-talk Forum(Chair: Haizhou Li)
 - *2022-2023*, Baidu PaddlePaddle Developer Committee Area Chair.
