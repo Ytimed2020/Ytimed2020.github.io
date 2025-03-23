@@ -28,14 +28,15 @@ My name is Yudong Yang, I am an undergraduate students  and currently working as
 
 Before joining SIAT, I have interned in companies such as Sensetime, Xbotpark Robotics etc. And was a visiting student at SIAT etc. !
 
-My research interests include: AAI, speech LLM, etc.
+My research interests include: speech AAI , speech LLM, Multi-Model etc.
 
 
 # 🔥 News
-
-[//]: # (- *2024.09*: Our work was Under Reviewer by TASLP.)
+- *2025.03*: Our work was accepted by Scientific Data (Nature), 🔥Release AUSpeech database😊!!!
+- *2025.02*: Our work was accepted by IEEE/ACM Transactions on Audio, Speech, and Language Processing.
+- *2024.11*: Our work won 1st in the SLT2024 workshop and submitted to INTERSPEECH2025
 - *2024.09*: Our work was accepted by ISCSLP2024.
-- *2024.09*: Our work was accepted by ISCSLP2024.
+- *2024.09*: Our work was accepted by ISCSLP2024, 🔥Release MSDM database😊!!!
 - *2024.08*: Our work was accepted by ICSR2024.
 - *2024.08*: Our work was accepted by ICSR2024, Winner of the Best Paper Award.
 - *2024.06*: Our work was accepted by INTERSPEECH2024.
@@ -67,11 +68,11 @@ My research interests include: AAI, speech LLM, etc.
 [//]: # (- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet]&#40;https://github.com&#41;, A, B, C, **CVPR 2020**)
 
 # 🎖 Honors and Awards
+- *2024* SLT2024 @ Workshop 1st
 - *2024* ICSR2024 @ Best Paper Award
-- *2024* SIAT-Faculty of integration @ Excellect Students Award
+- *2024* SIAT-CAS @ Faculty of Excellect Students Award
 - *2023* MICCAI2024 @ Workshop  Excellect Award
-- *2023* RSNA2024 @ Bronze Award
-- *2022* Sensetime @ Dean Innovation Award (Group Award)
+- *2022* Sensetime @ Dean Innovation Award (Team Award)
 - *2022* Xbotpart @ Excellect Students Award/Best Team Award
 - *2021* WAVE SUMMIT+ Deep Learning Developer Conference @ Best/Gold Students Award  (Chair: Haifeng Wang @ Baidu CTO)
 
@@ -83,9 +84,9 @@ My research interests include: AAI, speech LLM, etc.
 
 # 💬 Activity
 - *Open Source Contribution:* Open-Sora-Plan(11K star), PaddleDetection(13k star) etc.
-- *2024*, IEEE Journal of Biomedical and Healthy Information (JBHI) etc. @ Reviewer
+- *2024*, IEEE Journal of Biomedical and Healthy Information (JBHI), IJCNN2025 etc. @ Reviewer
 - *2024*, ISCSLP2024@Special Session Committee
-- *2024*, CAAI ICASSP Pre-talk Forum(Chair: Haizhou Li)
+- *2024*, CAAI ICASSP Pre-talk Forum Presenter(Chair: Haizhou Li)
 - *2022-2023*, Baidu PaddlePaddle Developer Committee Area Chair.
 - *2022-2023*, NUC-AI LAB leader.
 
