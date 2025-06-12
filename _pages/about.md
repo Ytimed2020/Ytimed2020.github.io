@@ -32,49 +32,36 @@ My research interests include: speech AAI , speech LLM, Multi-Model etc.
 
 
 # 🔥 News
-- *2025.03*: Our work was accepted by Scientific Data (Nature), 🔥Release AUSpeech database😊!!!
-- *2025.02*: Our work was accepted by IEEE/ACM Transactions on Audio, Speech, and Language Processing.
-- *2024.11*: Our work won 1st in the SLT2024 workshop and submitted to INTERSPEECH2025
-- *2024.09*: Our work was accepted by ISCSLP2024.
-- *2024.09*: Our work was accepted by ISCSLP2024, 🔥Release MSDM database😊!!!
-- *2024.08*: Our work was accepted by ICSR2024.
-- *2024.08*: Our work was accepted by ICSR2024, Winner of the Best Paper Award.
-- *2024.06*: Our work was accepted by INTERSPEECH2024.
-- *2023.12*: Our work was accepted by ICASSP2024.
-
-[//]: # (# 📝 Publications )
+- *2025.05*: Our two work was accepted by INTERSPEECH2025.
+- *2025.03*: Our one work was accepted by (Nature) Scientific Data, 🔥Release AUSpeech database😊!!!
+- *2025.02*: Our one work was accepted by IEEE/ACM Transactions on Audio, Speech, and Language Processing.
+- *2024.11*: Our one work won 1st in the SLT2024 workshop and accepted to INTERSPEECH2025
+- *2024.09*: Our two work was accepted by ISCSLP2024, 🔥Release MSDM database and MSDM Challenge😊!!!
+- *2024.08*: Our one work was accepted by ICSR2024, Winner of the Best Paper Award.
+- *2024.06*: Our one work was accepted by INTERSPEECH2024.
+- *2023.12*: Our one work was accepted by ICASSP2024.
 
 [//]: # ()
-[//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>)
+[//]: # (# 📝 Publications )
 
 [//]: # (<div class='paper-box-text' markdown="1">)
 
-[//]: # ()
 [//]: # ([Deep Residual Learning for Image Recognition]&#40;https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf&#41;)
 
-[//]: # ()
 [//]: # (**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun)
 
-[//]: # ()
-[//]: # ([**Project**]&#40;https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC&#41; <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>)
-
-[//]: # (- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
-
 [//]: # (</div>)
 
-[//]: # (</div>)
 
-[//]: # ()
-[//]: # (- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet]&#40;https://github.com&#41;, A, B, C, **CVPR 2020**)
 
 # 🎖 Honors and Awards
 - *2024* SLT2024 @ Workshop 1st
 - *2024* ICSR2024 @ Best Paper Award
 - *2024* SIAT-CAS @ Faculty of Excellect Students Award
-- *2023* MICCAI2024 @ Workshop  Excellect Award
+- *2023* MICCAI2024 @ Workshop Excellect Award
 - *2022* Sensetime @ Dean Innovation Award (Team Award)
 - *2022* Xbotpart @ Excellect Students Award/Best Team Award
-- *2021* WAVE SUMMIT+ Deep Learning Developer Conference @ Best/Gold Students Award  (Chair: Haifeng Wang @ Baidu CTO)
+- *2021* WAVE SUMMIT+ Deep Learning Developer Conference @ Gold Students Award  (Chair: Haifeng Wang @ Baidu CTO)
 
 [//]: # (# 📖 Educations)
 
@@ -83,13 +70,9 @@ My research interests include: speech AAI , speech LLM, Multi-Model etc.
 [//]: # (- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 # 💬 Activity
-- *Open Source Contribution:* Open-Sora-Plan(11K star), PaddleDetection(13k star) etc.
+- *Open Source Contribution:* Open-Sora-Plan(12K star), PaddleDetection(13k star) etc.
 - *2024*, IEEE Journal of Biomedical and Healthy Information (JBHI), IJCNN2025 etc. @ Reviewer
 - *2024*, ISCSLP2024@Special Session Committee
 - *2024*, CAAI ICASSP Pre-talk Forum Presenter(Chair: Haizhou Li)
 - *2022-2023*, Baidu PaddlePaddle Developer Committee Area Chair.
-- *2022-2023*, NUC-AI LAB leader.
-
-[//]: # (# 💻 Internships)
-
-[//]: # (- *2019.05 - 2020.02*, [Lorem]&#40;https://github.com/&#41;, China.)
+- *2022-2023*, NUC-AI LAB Students leader.
