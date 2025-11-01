@@ -28,7 +28,7 @@ I am Yudong Yang, an undergraduate student currently working as a Research Assis
 
 Prior to joining SIAT, I gained valuable experience through internships at leading companies and institutions, including Sensetime, Xbotpark Robotics, and as a visiting student at SIAT.
 
-My research interests lie in speech AI, speech LLM, and multi-modal learning.
+My research interests lie in Speech Process, Speech LLM, and AI for Healthy.
 
 
 
