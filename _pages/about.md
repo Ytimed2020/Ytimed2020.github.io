@@ -22,24 +22,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Have a happy day!
+Have a happy day! 😊
 
-My name is Yudong Yang, I am an undergraduate students  and currently working as a research assistant at Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS), where my mentors are Lan Wang, Nan Yan and Rongfeng Su!
+I am Yudong Yang, an undergraduate student currently working as a Research Assistant at the Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS), under the supervision of Lan Wang, Nan Yan, and Rongfeng Su.
 
-Before joining SIAT, I have interned in companies such as Sensetime, Xbotpark Robotics etc. And was a visiting student at SIAT etc. !
+Prior to joining SIAT, I gained valuable experience through internships at leading companies and institutions, including Sensetime, Xbotpark Robotics, and as a visiting student at SIAT.
 
-My research interests include: speech AAI , speech LLM, Multi-Model etc.
+My research interests lie in speech AI, speech LLM, and multi-modal learning.
 
 
-# 🔥 News
-- *2025.05*: Our two work was accepted by INTERSPEECH2025.
-- *2025.03*: Our one work was accepted by (Nature) Scientific Data, 🔥Release AUSpeech database😊!!!
-- *2025.02*: Our one work was accepted by IEEE/ACM Transactions on Audio, Speech, and Language Processing.
-- *2024.11*: Our one work won 1st in the SLT2024 workshop and accepted to INTERSPEECH2025
-- *2024.09*: Our two work was accepted by ISCSLP2024, 🔥Release MSDM database and MSDM Challenge😊!!!
-- *2024.08*: Our one work was accepted by ICSR2024, Winner of the Best Paper Award.
-- *2024.06*: Our one work was accepted by INTERSPEECH2024.
-- *2023.12*: Our one work was accepted by ICASSP2024.
 
 [//]: # ()
 [//]: # (# 📝 Publications )
@@ -54,25 +45,63 @@ My research interests include: speech AAI , speech LLM, Multi-Model etc.
 
 
 
-# 🎖 Honors and Awards
-- *2024* SLT2024 @ Workshop 1st
-- *2024* ICSR2024 @ Best Paper Award
-- *2024* SIAT-CAS @ Faculty of Excellect Students Award
-- *2023* MICCAI2024 @ Workshop Excellect Award
-- *2022* Sensetime @ Dean Innovation Award (Team Award)
-- *2022* Xbotpart @ Excellect Students Award/Best Team Award
-- *2021* WAVE SUMMIT+ Deep Learning Developer Conference @ Gold Students Award  (Chair: Haifeng Wang @ Baidu CTO)
+# 🔥 News
 
-[//]: # (# 📖 Educations)
+- **Oct 2025**: One paper accepted to **Information Fusion**.
+- **Oct 2025**: One paper accepted to **Knowledge-Based Systems**.
+- **May 2025**: Two papers accepted to **INTERSPEECH 2025**.
+- **Mar 2025**: One paper accepted to **Scientific Data (Nature)** — 🚀 Released the **AUSpeech**!
+- **Feb 2025**: One paper accepted to **IEEE/ACM Transactions on Audio, Speech, and Language Processing**.
+- **Nov 2024**: Won **1st place** at the **SLT 2024 Workshop** — paper accepted to **INTERSPEECH 2025**.
+- **Sep 2024**: Two papers accepted to **ISCSLP 2024** — 🚀 Released the **MSDM and challenge**!
+- **Aug 2024**: One paper accepted to **ICSR 2024** — 🏆 **Winner of the Best Paper Award**.
+- **Jun 2024**: One paper accepted to **INTERSPEECH 2024**.
+- **Dec 2023**: One paper accepted to **ICASSP 2024**.
 
-[//]: # (- *2019.06 - 2022.04 &#40;now&#41;*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
+---
 
-[//]: # (- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
+# 🏆 Honors & Awards
 
-# 💬 Activity
-- *Open Source Contribution:* Open-Sora-Plan(12K star), PaddleDetection(13k star) etc.
-- *2024*, IEEE Journal of Biomedical and Healthy Information (JBHI), IJCNN2025 etc. @ Reviewer
-- *2024*, ISCSLP2024@Special Session Committee
-- *2024*, CAAI ICASSP Pre-talk Forum Presenter(Chair: Haizhou Li)
-- *2022-2023*, Baidu PaddlePaddle Developer Committee Area Chair.
-- *2022-2023*, NUC-AI LAB Students leader.
+- **2024** – 🥇 **1st Place**, SLT 2024 Workshop
+- **2024** – 🏆 **Best Paper Award**, ICSR 2024
+- **2024** – ⭐ **Faculty of Excellent Students Award**, SIAT
+- **2023** – 🌟 **Excellent Award**, MICCAI 2024 Workshop
+- **2022** – 🧠 **Dean Innovation Award (Team)**, Sensetime
+- **2022** – 🏅 **Excellent Students Award / Best Team Award**, Xbotpark
+- **2021** – 🥇 **Gold Student Award**, WAVE SUMMIT+ Deep Learning Developer Conference (Award presented by Haifeng Wang, Baidu CTO)
+
+---
+
+# 💬 Academic Activities
+
+- **Open Source Contributions**:  
+  Contributed to [Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) (12K+ ⭐) and [PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) (13K+ ⭐), among others.
+
+- **Reviewer**:
+    - *IEEE Journal of Biomedical and Health Informatics (JBHI)*
+    - *International Joint Conference on Neural Networks (IJCNN) 2025*
+    - *Association for the Advancement of Artificial Intelligence (AAAI) 2025*
+
+- **Special Session Committee**:
+    - *ISCSLP 2024*
+
+- **Presenter**:
+    - *CAAI ICASSP Pre-talk Forum*
+
+- **Leadership & Roles**:
+    - **Area Chair**, Baidu PaddlePaddle "领航团" Developer Committee (2022–2023)
+    - **Student Leader**, NUC-AI LAB (2022–2023)
+
+---
+
+# 💻 Competitions & Others
+
+- 🥇 **First Prize**, China Artificial Intelligence and Robotics Competition
+- 🥇 **First Prize**, Computer Application Competition in Five Provinces of North China & Hong Kong, Macao, Taiwan
+- 🥈 **Second Prize**, China Collegiate Student Service Outsourcing Innovation and Entrepreneurship Competition
+- 🥈 **Second Prize**, China Collegiate Computing Competition
+- 🥉 **Third Prize**, China Software Cup
+
+---
+
+📫 Feel free to reach out for collaboration or a chat!
